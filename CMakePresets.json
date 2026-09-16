@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "configurePresets": [
+        {
+            "name": "macos",
+            "displayName": "macOS (Darwin)",
+            "description": "Build for Apple M 64-bit macOS."
+        },
+        {
+            "name": "arch",
+            "displayName": "Arch Linux",
+            "description": "Build for Arch Linux (64-bit)."
+        }
+    ]
+}
